@@ -3,7 +3,7 @@ Flask-SQLAlchemy
 python-dotenv
 requests
 opencv-python-headless
-pyzbar==0.1.9
-numpy<2.0.0
+pyzbar
+numpy
 Pillow
 zbar-py
