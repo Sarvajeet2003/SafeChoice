@@ -1,6 +1,6 @@
-# BArcode - Product Safety Scanner
+# SafeChoice - Product Safety Scanner
 
-BArcode is a Streamlit application that allows users to scan product barcodes and check if the products are safe for them based on their allergies and health conditions. The app uses the OpenFoodFacts API to retrieve product information and analyzes the ingredients against the user's health profile.
+SafeChoice is a Streamlit application that allows users to scan product barcodes and check if the products are safe for them based on their allergies and health conditions. The app uses the OpenFoodFacts API to retrieve product information and analyzes the ingredients against the user's health profile.
 
 ## Features
 
